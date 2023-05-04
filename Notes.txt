@@ -1,2 +1,8 @@
 WELCOME IN SELENIUM TRANING
 // write your notes here
+
+ 1. do changes on file
+ 2. open trminal on the smae folder   // git status  [optional]
+ 3. git add .   // git status  [optional]
+ git commit -m "your message"
+ git push origin master
